@@ -1,7 +1,7 @@
 
-# APPS Django Developer Evaluation Test
+# Django Developer Evaluation Test
 
-This project contains has answers to the APPS Django Developer Evaluation Test.
+This project contains has answers to the Django Developer Evaluation Test.
 
   
 ## Commands
